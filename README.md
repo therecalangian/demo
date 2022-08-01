@@ -8,4 +8,6 @@ another paragraph
 ````
 <h1> Hello world <h1>
 
-```
+
+``` 
+![lovely pic](images/file.jpeg)
