@@ -10,4 +10,6 @@ another paragraph
 
 
 ``` 
-![lovely pic](images/file.jpeg)
+![lovely pic](images/puppy.jpeg)
+
+--- 
